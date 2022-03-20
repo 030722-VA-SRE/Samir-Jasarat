@@ -70,7 +70,8 @@
     * ie: installing java/maven/git to an ec2
     * if you're feeling ambitious, a script that would delete a file if it exists
 
-```#!/bin/bash
+```
+#!/bin/bash
 
 file="file_you_want_to_delete"
 
