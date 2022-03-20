@@ -77,4 +77,4 @@ file="file_you_want_to_delete"
 
 if [ -f "$file" ] ; then
     rm "$file"
-fi```
+fi
