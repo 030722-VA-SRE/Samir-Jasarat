@@ -1,0 +1,4 @@
+com/revproject1/repository/TutorialRepository.class
+com/revproject1/model/Tutorial.class
+com/revproject1/SpringBootJpaH2Application.class
+com/revproject1/controller/TutorialController.class
